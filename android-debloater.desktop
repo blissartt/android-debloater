@@ -2,4 +2,4 @@
 Type=Application
 Name=Android Debloater
 Exec=/usr/local/bin/uad-ng
-Icon=/home/$USER/.local/share/icons/android.png
+Icon=/usr/share/icons/android.png
