@@ -1,5 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=ADB Stop
-Exec=~/.config/uad-adb-scripts/adb-kill.sh
-Icon=stop
