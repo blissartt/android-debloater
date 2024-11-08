@@ -1,5 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=ADB Start
-Exec=~/.config/uad-adb-scripts/adb-start.sh
-Icon=start
