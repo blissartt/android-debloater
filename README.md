@@ -1,3 +1,6 @@
+# **WARNING**
+## **This repo is archived, this project has moved to Codeberg**
+
 ## UAD-ng install script!
 
 This is a simple install script for the univeral android debloater next generation for debian based linux distros, I might extend it in the future.
